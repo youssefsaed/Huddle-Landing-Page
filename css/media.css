@@ -1,0 +1,86 @@
+ 
+ @media screen and (max-width:360px) {
+
+    .btn-nav
+   {
+    padding: 1px 10px;
+       
+       font-size: 0.5rem;
+       
+   }
+}
+
+@media screen and (max-width:912px) {
+    .img-home
+    {
+        width: 80% !important;
+    }
+
+
+    
+}
+
+@media screen and (max-width:540px) {
+    header p
+    {
+     font-size: 0.8rem;
+     padding: 0 10%;
+    }
+     .btn-nav
+     {
+         padding: 2.5px 10px;
+         font-size: 0.8rem;
+         
+     }
+     .logo
+     {
+         width: 50%;
+     }
+     h1
+     {
+         font-size: 1.5rem;
+     }
+     h4
+     {
+         font-size: 1rem;
+     }
+   
+     .content .row
+     {
+         display: flex;
+         flex-direction: column-reverse;
+         
+     }
+     .togther-item 
+     {
+       text-align: center;
+       margin-top: 40px;
+     }
+ 
+   .svg-mobile
+   {
+     width: auto;
+     height: auto;
+   }
+ .flowing-item
+ {
+     text-align: center;
+     margin-top: 40px;
+ }
+ .users-item
+ {
+     text-align: center;
+     margin-top: 40px;
+ }
+ footer input
+ {
+     width: 90% !important;
+ }
+ .btn-subscribe
+ {
+ 
+     padding: 5px 10px !important;
+ }
+     
+ }
+
